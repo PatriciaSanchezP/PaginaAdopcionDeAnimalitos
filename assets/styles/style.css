@@ -26,4 +26,7 @@ body{background-color: black;
 p{font-family: 'Times New Roman', Times, serif; 
     color: azure; text-align: justify;
 font-size: larger;}
+label{font-family: 'Times New Roman', Times, serif; 
+    color: azure; text-align: justify;
+font-size: larger;}
 .link{color: rgb(211, 141, 188);}
